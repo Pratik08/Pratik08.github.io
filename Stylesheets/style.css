@@ -124,7 +124,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 	display: none;
 	z-index: 300;
 	cursor: crosshair;
-	cursor: url(../img/pointer.png), auto;
+	/* cursor: url(../img/pointer.png), auto; */
 }
 
 #runner {
@@ -646,7 +646,7 @@ ul.timeline li .data .text {
 .ul-withdetails li .meta {
 	overflow: hidden;
 	padding: 20px;
-	cursor: pointer;
+	cursor: default;
 }
 
 .ul-withdetails li .details {
@@ -894,7 +894,7 @@ ul.timeline li .data .text {
 
 	-webkit-box-shadow: 0px 3px 3px -3px #ccc;
 	box-shadow: 0px 3px 3px -3px #ccc;
-	cursor: pointer;
+	cursor: default;
 }
 
 .pitems .pubtitle {
