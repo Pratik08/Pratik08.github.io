@@ -94,7 +94,8 @@ a {
 img.research,
 img.awards,
 img.talks,
-img.teaching {
+img.teaching,
+img.service {
   height: 128px;
   width: 128px;
 }
